@@ -2,7 +2,8 @@
 
 ## the template to start a spring boot web application for beginners.
 
-Tips: the default web directory is main/resources/static
+## Tips: 
+      the default web directory is main/resources/static
       if you add dependencies 'compile("org.springframework.boot:spring-boot-starter-thymeleaf")'
       the default web directory will be main/resources/templates
       
