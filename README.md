@@ -16,7 +16,7 @@ Tips:
 2.      
       
       
-      the content of gradle/wrapper/gradle-wrapper.properties should be:
+            the content of gradle/wrapper/gradle-wrapper.properties should be:
       distributionBase=GRADLE_USER_HOME
       distributionPath=wrapper/dists
       zipStoreBase=GRADLE_USER_HOME
