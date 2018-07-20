@@ -1,4 +1,4 @@
-# spring-boot-gradle-intellj-template
+# spring-boot-gradle-intellij-template
 
 ## the template to start a spring boot web application for beginners.
 
