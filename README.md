@@ -6,7 +6,8 @@ Tips: the default web directory is main/resources/static
       if you add dependencies 'compile("org.springframework.boot:spring-boot-starter-thymeleaf")'
       the default web directory will be main/resources/templates
       
-Examples of html file in templates which can interact with the backend
+Examples of html file in templates which can interact with the backend:
+      
       <!DOCTYPE HTML>
       <html xmlns:th="http://www.thymeleaf.org">
       <head> 
