@@ -7,6 +7,7 @@ To import the project, open intellij, select import by gradle.
 Tips: 
 
       
+      
 1.      
       the default web directory is main/resources/static
       if you add dependencies 'compile("org.springframework.boot:spring-boot-starter-thymeleaf")'
